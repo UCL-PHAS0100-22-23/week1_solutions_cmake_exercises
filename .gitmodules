@@ -1,0 +1,3 @@
+[submodule "devcontainer_submodule"]
+	path = devcontainer_submodule
+	url = https://github.com/UCL/rc-cpp-vscode-dev-container.git
