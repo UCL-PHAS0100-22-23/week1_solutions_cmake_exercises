@@ -10,8 +10,8 @@ At the project root, run the following sequence of commands
 
 ``` sh
 
-$ cmake -S . -B build_dir
-$ cmake --build build_dir --target hello_world
+$ cmake -B build_dir
+$ cmake --build build_dir --target say_hello
 $ ./build_dir/
 
 ```
